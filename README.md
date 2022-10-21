@@ -26,6 +26,7 @@ ___
 [Mega](https://mega.nz/desktop)  
 [g++ guide](https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/)  
 [qBittorrent](https://www.qbittorrent.org/download.php)  
+[Scanner](https://winscan2pdf.ru.uptodown.com/windows)
 
 ___
 ### Links
