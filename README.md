@@ -30,8 +30,8 @@
 
 ## Games
 
-[Steam](https://store.steampowered.com/about/steam?l) 
-[Vortex](https://www.nexusmods.com/about/vortex/)
+[Steam](https://store.steampowered.com/about/steam?l)  
+[Vortex](https://www.nexusmods.com/about/vortex/)  
  mods witcher    
 https://www.nexusmods.com/witcher3/mods/1021   
 https://www.nexusmods.com/witcher3/mods/1549  
