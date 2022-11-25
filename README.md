@@ -1,7 +1,7 @@
 # Downloads
 
 ## Programs
-[Chrome](https://www.google.com/intl/ru_ru/chrome/)
+[Chrome](https://www.google.com/intl/ru_ru/chrome/)   
 [Firefox](https://www.mozilla.org/ru/firefox/new/)   
 [7-ZIP](https://www.7-zip.org/)  
 [Telegram](https://desktop.telegram.org/)  
